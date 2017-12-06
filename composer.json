@@ -19,5 +19,6 @@
         "psr-4": {
           "setor7soft\\Cielo\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
